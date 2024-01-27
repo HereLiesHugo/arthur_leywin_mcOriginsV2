@@ -2,10 +2,14 @@
 	"powers": [
 		"arthur:no_exhaustion",
 		"arthur:spd",
-		"arthur:str"
+		"arthur:str",
+		"arthur:extra_inv",
+		"arthur:durability/dura",
+		"arthur:durability/dura_tough",
+		"arthur:regeneration/regenA"
 		
 	],
-	"icon": "minecraft:glass",
+	"icon": "minecraft:purpur_pillar",
 	"order": 6,
 	"impact": 3,
 	"name": "Arthur Leywin",
