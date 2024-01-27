@@ -1,10 +1,13 @@
 {
 	"powers": [
-		"arthur:no_exaustion"
+		"arthur:no_exhaustion",
+		"arthur:spd",
+		"arthur:str"
+		
 	],
 	"icon": "minecraft:glass",
-	"order": 4,
-	"impact": 2,
-	"name": "Arthur",
-	"description": "These spirit-like creatures fly through the air like no other known being, but have to be careful not to expose themselves to the dangers of the world."
+	"order": 6,
+	"impact": 3,
+	"name": "Arthur Leywin",
+	"description": "A King, Reincarnated."
 }
