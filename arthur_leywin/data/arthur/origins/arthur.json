@@ -1,0 +1,10 @@
+{
+	"powers": [
+		"arthur:no_exaustion"
+	],
+	"icon": "minecraft:glass",
+	"order": 4,
+	"impact": 2,
+	"name": "Arthur",
+	"description": "These spirit-like creatures fly through the air like no other known being, but have to be careful not to expose themselves to the dangers of the world."
+}
