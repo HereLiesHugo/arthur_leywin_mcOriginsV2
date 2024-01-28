@@ -4,12 +4,8 @@
     "description": "Use aether to regenerate some health",
     "cooldown": 1,
     "entity_action": {
-        "type": "origins:and",
-        "actions": [
-            {
-                "type": ""
-            }
-        ]
+        "type": "origins:heal",
+        "amount": 12
     },
     "key": {
         "key": "key.origins.secondary_active"
