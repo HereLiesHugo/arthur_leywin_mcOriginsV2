@@ -1,0 +1,11 @@
+{
+    "name": "Asuran Blood",
+    "description": "Sylvie's Asuran blood flows within you, making you naturally more durable.",
+    "type": "origins:attribute",
+    "modifier": {
+        "name": "Durability increase",
+        "attribute": "minecraft:generic.armor",
+        "value": 10,
+        "operation": "addition"
+    }
+}

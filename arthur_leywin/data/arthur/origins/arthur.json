@@ -1,0 +1,16 @@
+{
+	"powers": [
+		"arthur:spd",
+		"arthur:str",
+		"arthur:extra_inv",
+		"arthur:dura",
+		"arthur:dura_tough",
+		"arthur:regen_active",
+		"arthur:regen_passive_death"
+	],
+	"icon": "minecraft:purpur_pillar",
+	"order": 6,
+	"impact": 3,
+	"name": "Arthur Leywin",
+	"description": "A King, Reincarnated."
+}

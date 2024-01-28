@@ -1,0 +1,11 @@
+{
+    "type": "origins:attribute",
+    "name": "Aether Tendon Infusion",
+    "description": "(Passive) Aether always circulates within you, making you faster (+ movement speed)",
+    "modifier": {
+        "name": "Aether Tendon Infusion",
+        "attribute": "minecraft:generic.movement_speed",
+        "value": 0.073,
+        "operation": "addition"
+    }
+}

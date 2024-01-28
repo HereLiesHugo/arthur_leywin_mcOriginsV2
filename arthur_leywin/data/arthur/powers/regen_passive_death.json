@@ -1,0 +1,15 @@
+{
+    "name": "Reincarnated",
+    "description": "After experiencing death once, a second time could help you gain insight.",
+    "type": "origins:action_on_callback",
+    "entity_action_respawned": {
+        "type": "origins:apply_effect",
+        "effect": {
+            "effect": "minecraft:regeneration",
+            "duration": -1,
+            "amplifier": 0,
+            "show_particles": false,
+            "show_icon": true
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "type": "origins:active_self",
+    "name": "Aetheric Regneration",
+    "description": "Use aether to regenerate some health",
+    "cooldown": 1,
+    "entity_action": {
+        "type": "origins:and",
+        "actions": [
+            {
+                "type": ""
+            }
+        ]
+    },
+    "key": {
+        "key": "key.origins.secondary_active"
+    }
+}
