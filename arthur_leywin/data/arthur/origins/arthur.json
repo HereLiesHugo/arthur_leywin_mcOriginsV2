@@ -1,13 +1,12 @@
 {
 	"powers": [
-		"arthur:no_exhaustion",
 		"arthur:spd",
 		"arthur:str",
 		"arthur:extra_inv",
-		"arthur:durability/dura",
-		"arthur:durability/dura_tough",
-		"arthur:regeneration/regenA"
-		
+		"arthur:dura",
+		"arthur:dura_tough",
+		"arthur:regen_active",
+		"arthur:regen_passive_death"
 	],
 	"icon": "minecraft:purpur_pillar",
 	"order": 6,
