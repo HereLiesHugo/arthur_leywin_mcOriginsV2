@@ -1,1 +1,1 @@
-give @s netherite_sword{Unbreakable:1,display:{Name:'[{"text":"Aether Sword","italic":false,"bold":true,"color":"light_purple"}]',Lore:['[{"text":"A sword made completely of Aether.","italic":false}]']},Enchantments:[{id:sharpness,lvl:10}]} 1
+give @s netherite_sword{Unbreakable:1,display:{Name:'[{"text":"Aether Sword","italic":false,"bold":true,"color":"light_purple"}]',Lore:['[{"text":"A sword made completely of Aether.","italic":false}]']},Enchantments:[{id:sharpness,lvl:15}]} 1

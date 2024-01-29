@@ -1,4 +1,5 @@
 {
+    "hidden": "true",
     "type": "origins:attribute",
     "name": "Aether Muscle Infusion",
     "description": "(Passive) Aether always circulates within you, making you stronger (+5 attack damage)",
