@@ -15,7 +15,8 @@
     },
     "cooldown": 150,
     "hud_render": {
-      "should_render": true
+      "should_render": true,
+      "bar_index": 2
     },
     "key": {
       "key": "key.origins.ternary_active",
