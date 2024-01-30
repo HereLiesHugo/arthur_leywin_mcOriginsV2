@@ -1,6 +1,6 @@
 {
     "name": "God Step",
-    "description": "Displace your body using aether",
+    "description": "Displace your body using aether (50 Block TP Range)",
     "type": "origins:active_self",
     "entity_action": {
         "type": "origins:raycast",
@@ -13,6 +13,11 @@
         "command_at_hit": "function arthur:god_step_effects",
         "command_along_ray": "function arthur:god_step",
         "command_step": 1
+    },
+    "cooldown": 65,
+    "hud_render": {
+        "should_render": "true",
+        "bar_index": 6
     },
     "key": {
         "key": "key.origins.quinary_active"
