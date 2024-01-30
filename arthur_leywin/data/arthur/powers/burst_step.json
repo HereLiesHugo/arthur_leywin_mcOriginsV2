@@ -13,7 +13,7 @@
         }
       ]
     },
-    "cooldown": 150,
+    "cooldown": 110,
     "hud_render": {
       "should_render": true,
       "bar_index": 2
