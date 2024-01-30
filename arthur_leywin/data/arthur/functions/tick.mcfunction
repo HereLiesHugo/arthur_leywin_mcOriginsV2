@@ -1,0 +1,1 @@
+function arthur:aether_sword_remove_tick

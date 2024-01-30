@@ -6,10 +6,11 @@
 		"arthur:dura",
 		"arthur:dura_tough",
 		"arthur:regen_active",
-		"arthur:regen_passive_death",
+		"arthur:regen_passive",
 		"arthur:burst_step",
 		"arthur:fall",
-		"arthur:aether_sword"
+		"arthur:aether_sword",
+		"arthur:god_step"
 	],
 	"icon": "minecraft:purpur_pillar",
 	"order": 6,
