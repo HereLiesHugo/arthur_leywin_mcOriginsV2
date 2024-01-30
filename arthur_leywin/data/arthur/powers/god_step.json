@@ -14,7 +14,7 @@
         "command_along_ray": "function arthur:god_step",
         "command_step": 1
     },
-    "cooldown": 65,
+    "cooldown": 150,
     "hud_render": {
         "should_render": "true",
         "bar_index": 6
