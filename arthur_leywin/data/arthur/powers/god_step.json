@@ -19,7 +19,11 @@
             },
             {
                 "type": "origins:play_sound",
-                "sound": "minecraft:entity.enderman.teleport"
+                "sound": "minecraft:entity.lightning_bolt.thunder"
+            },
+            {
+                "type": "origins:play_sound",
+                "sound": "minecraft:entity.lightning_bolt.impact"
             },
             {
                 "type": "origins:spawn_particles",
@@ -34,8 +38,8 @@
                     "x": 3.0,
                     "y": 2.0,
                     "z": 3.0
+                }
             }
-        }
     ]
     },
     "cooldown": 150,

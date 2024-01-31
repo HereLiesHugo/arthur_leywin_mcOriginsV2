@@ -10,6 +10,24 @@
           "type": "origins:add_velocity",
           "z": 3,
           "space": "local"
+        },
+        {
+          "type": "origins:play_sound",
+          "sound": "minecraft:item.trident.throw"
+        },
+        {
+          "type": "origins:spawn_particles",
+          "particle": {
+            "type": "minecraft:electric_spark"
+            },
+          "count": 250,
+          "speed": 0.0,
+          "force": true,
+          "spread": {
+            "x": 3.0,
+            "y": 0.1,
+            "z": 3.0
+          }
         }
       ]
     },
