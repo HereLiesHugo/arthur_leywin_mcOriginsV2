@@ -23,17 +23,17 @@
             },
             {
                 "type": "origins:spawn_particles",
-    "particle": {
-        "type": "minecraft:block",
-        "params": "minecraft:purpur_pillar"
-        },
-        "count": 100,
-    "speed": 0.0,
-    "force": true,
-    "spread": {
-        "x": 3.0,
-        "y": 0.0,
-        "z": 3.0
+                    "particle": {
+                        "type": "minecraft:block",
+                        "params": "minecraft:magenta_wool"
+                    },
+                "count": 200,
+                "speed": 0.0,
+                "force": true,
+                "spread": {
+                    "x": 3.0,
+                    "y": 2.0,
+                    "z": 3.0
             }
         }
     ]
