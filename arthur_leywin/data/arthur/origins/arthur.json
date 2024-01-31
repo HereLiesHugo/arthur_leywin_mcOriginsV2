@@ -10,7 +10,9 @@
 		"arthur:burst_step",
 		"arthur:fall",
 		"arthur:aether_sword",
-		"arthur:god_step"
+		"arthur:god_step",
+		"arthur:asuran_body",
+		"arthur:aroras_requiem"
 	],
 	"icon": "minecraft:purpur_pillar",
 	"order": 6,

@@ -13,6 +13,20 @@
             {
                 "type": "origins:execute_command",
                 "command": "schedule function arthur:aether_sword_remove 30s"
+            },
+            {
+                "type": "origins:spawn_particles",
+                "particle": {
+                    "type": "minecraft:dragon_breath"
+                },
+                "count": 250,
+                "speed": 0.0,
+                "force": true,
+                "spread": {
+                    "x": 1.0,
+                    "y": 0.5,
+                    "z": 1.0
+                }
             }
         ]
     },

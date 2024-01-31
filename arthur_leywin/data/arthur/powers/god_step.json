@@ -1,5 +1,5 @@
 {
-    "name": "God Step",
+    "name": "GOD RUNE: God Step",
     "description": "Displace your body using aether (50 Block TP Range)",
     "type": "origins:active_self",
     "entity_action": {
@@ -28,8 +28,7 @@
             {
                 "type": "origins:spawn_particles",
                     "particle": {
-                        "type": "minecraft:block",
-                        "params": "minecraft:magenta_wool"
+                        "type": "minecraft:dragon_breath"
                     },
                 "count": 200,
                 "speed": 0.0,
