@@ -1,1 +1,0 @@
-function arthur:kill_sword
