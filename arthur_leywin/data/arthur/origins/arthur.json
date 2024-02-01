@@ -1,6 +1,6 @@
 {
 	"powers": [
-		"arthur:aether_sense",
+		"arthur:destruction",
 		"arthur:aroras_requiem",
 		"arthur:god_step",
 		"arthur:spd",
@@ -14,6 +14,7 @@
 		"arthur:fall",
 		"arthur:aether_sword",
 		"arthur:asuran_body",
+		"arthur:aether_sense",
 		"arthur:glow_immune"
 	],
 	"icon": "minecraft:purpur_pillar",
