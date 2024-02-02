@@ -53,10 +53,24 @@
                 "destruction_type": "destroy",
                 "damage_self": false,
                 "create_fire": true
+            },
+            {
+                "type": "origins:play_sound",
+                "sound": "minecraft:entity.ender_dragon.death"
+            },
+            {
+                "type": "origins:apply_effect",
+                "effect": {
+                    "effect": "minecraft:resistance",
+                    "duration": 10,
+                    "amplifier": 255,
+                    "show_particles": false,
+                    "show_icon": false
+                }
             }
         ]
     },
-    "cooldown": 1,
+    "cooldown": 12000,
     "hud_render": {
         "should_render": true,
         "sprite_location": "origins:textures/gui/community/spiderkolo/resource_bar_03.png",
