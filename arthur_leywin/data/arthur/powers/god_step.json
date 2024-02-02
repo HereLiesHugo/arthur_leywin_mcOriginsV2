@@ -47,6 +47,7 @@
         "bar_index": 6
     },
     "key": {
-        "key": "key.origins.quinary_active"
+        "key": "key.origins.quinary_active",
+        "continuous": false
     }
 }
