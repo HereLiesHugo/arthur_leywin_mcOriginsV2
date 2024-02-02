@@ -1,10 +1,5 @@
 {
     "hidden": "true",
     "type": "origins:modify_falling",
-    "take_fall_damage": false,
-    "condition": {
-        "type": "origins:fall_distance",
-        "comparison": "<=",
-        "compare_to": 10
-    }
+    "take_fall_damage": false
 }
