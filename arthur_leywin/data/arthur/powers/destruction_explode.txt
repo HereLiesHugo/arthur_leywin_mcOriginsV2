@@ -1,6 +1,6 @@
 {
     "name": "GOD RUNE: Destruction",
-    "description": "Be careful with this one, don't lose control. - Sets entities within 24 blocks on fire, within 16 summons lightning.",
+    "description": "Be careful with this one, don't lose control. - Sets entities within 24 blocks on fire, within 16 summons lightning, also creates a.. hole...",
 
     "type": "origins:active_self",
     "entity_action": {
@@ -48,10 +48,21 @@
                 }
             },
             {
+                "type": "origins:explode",
+                "power": 35,
+                "destruction_type": "destroy",
+                "damage_self": false,
+                "create_fire": true
+            },
+            {
+                "type": "origins:play_sound",
+                "sound": "minecraft:entity.ender_dragon.death"
+            },
+            {
                 "type": "origins:apply_effect",
                 "effect": {
                     "effect": "minecraft:resistance",
-                    "duration": 2,
+                    "duration": 10,
                     "amplifier": 255,
                     "show_particles": false,
                     "show_icon": false
@@ -59,7 +70,7 @@
             }
         ]
     },
-    "cooldown": 4200,
+    "cooldown": 10,
     "hud_render": {
         "should_render": true,
         "sprite_location": "origins:textures/gui/community/spiderkolo/resource_bar_03.png",
