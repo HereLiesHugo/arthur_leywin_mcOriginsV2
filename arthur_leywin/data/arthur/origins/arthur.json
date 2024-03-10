@@ -15,8 +15,7 @@
 		"arthur:aether_sword",
 		"arthur:asuran_body",
 		"arthur:aether_sense",
-		"arthur:glow_immune",
-		"arthur:aetheric_intent"
+		"arthur:glow_immune"
 	],
 	"icon": "minecraft:purpur_pillar",
 	"order": 6,
