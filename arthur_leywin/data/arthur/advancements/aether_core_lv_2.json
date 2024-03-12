@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:chorus_fruit"
+    },
+    "title": "Aether Core Lv 2",
+    "description": "Kill 100 mobs",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "aether_core_lv_2": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 10
+  },
+  "parent": "arthur_advancements:aethercore_lv_1"
+}
