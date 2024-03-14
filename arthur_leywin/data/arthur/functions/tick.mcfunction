@@ -1,2 +1,1 @@
 function arthur:aether_sword_remove_tick
-function arthur:realmheart_tick

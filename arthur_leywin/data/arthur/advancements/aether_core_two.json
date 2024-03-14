@@ -1,0 +1,33 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Aether Core Level 2",
+            "color": "dark_purple",
+            "bold": true
+        },
+        "description": {
+            "text": "Description",
+            "bold": true,
+            "color": "light_purple"
+        },
+        "icon": {
+            "item": "minecraft:chorus_fruit"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "requirements": [
+        [
+            "impossible"
+        ]
+    ],
+    "parent": "arthur:root"
+}
