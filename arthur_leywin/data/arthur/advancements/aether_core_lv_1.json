@@ -13,7 +13,7 @@
   },
   "criteria": {
     "aether_core_lv_1": {
-      "trigger": "minecraft:impossible"
+      "trigger": "minecraft:tick"
     }
   }
 }
