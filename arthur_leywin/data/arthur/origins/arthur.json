@@ -17,7 +17,7 @@
 		"arthur:aether_sense",
 		"arthur:glow_immune"
 	],
-	"icon": "minecraft:purpur_pillar",
+	"icon": "minecraft:respawn_anchor",
 	"order": 6,
 	"impact": 3,
 	"name": "Arthur Leywin",
