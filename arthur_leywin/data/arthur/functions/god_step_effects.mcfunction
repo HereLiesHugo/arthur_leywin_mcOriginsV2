@@ -1,1 +1,0 @@
-particle flash ~ ~1 ~ 1 11 0 1 75 force @a
