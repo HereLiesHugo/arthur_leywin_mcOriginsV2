@@ -1,0 +1,14 @@
+{
+    "name": "Aether Sense",
+    "description": "Using Aether, you can sense entities within 20 blocks of yourself (passive)",
+    "type": "origins:entity_glow",
+    "bientity_condition": {
+        "type": "origins:distance",
+        "comparison": "<=",
+        "compare_to": 20
+    },
+    "use_teams": false,
+    "red": 0.412,
+    "green": 0,
+    "blue": 0.678
+}

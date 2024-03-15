@@ -1,0 +1,21 @@
+{
+    "hidden": true,
+    "type": "origins:action_over_time",
+    "entity_action": {
+        "type": "origins:and",
+        "actions": [
+            {
+                "type": "origins:execute_command",
+                "command": "function arthur:aether_core_one_grant"
+            },
+            {
+                "type": "origins:execute_command",
+                "command": "function arthur:aether_core_two_grant_tick"
+            },
+            {
+                "type": "origins:execute_command",
+                "command": "function arthur:aether_core_three_grant_tick"
+            }
+        ]
+    }
+}

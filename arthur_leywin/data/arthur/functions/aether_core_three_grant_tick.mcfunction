@@ -1,0 +1,1 @@
+execute if score @s total_kills matches 350.. run advancement grant @s only arthur:aether_core_three

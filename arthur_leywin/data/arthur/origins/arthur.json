@@ -1,0 +1,26 @@
+{
+	"powers": [
+		"arthur:destruction_explode",
+		"arthur:aroras_requiem",
+		"arthur:god_step",
+		"arthur:spd",
+		"arthur:str",
+		"arthur:extra_inv",
+		"arthur:dura",
+		"arthur:dura_tough",
+		"arthur:regen_active",
+		"arthur:regen_passive",
+		"arthur:burst_step",
+		"arthur:fall",
+		"arthur:aether_sword",
+		"arthur:asuran_body",
+		"arthur:aether_sense",
+		"arthur:glow_immune",
+		"arthur:tick_commands"
+	],
+	"icon": "minecraft:respawn_anchor",
+	"order": 6,
+	"impact": 3,
+	"name": "Arthur Leywin",
+	"description": "A King, Reincarnated."
+}

@@ -1,0 +1,33 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Aether Core Level 3",
+            "bold": true,
+            "color": "dark_purple"
+        },
+        "description": {
+            "text": "Kill 350 Mobs (Unlock Destruction)",
+            "bold": true,
+            "color": "light_purple"
+        },
+        "icon": {
+            "item": "minecraft:respawn_anchor"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "requirements": [
+        [
+            "impossible"
+        ]
+    ],
+    "parent": "arthur:root"
+}
