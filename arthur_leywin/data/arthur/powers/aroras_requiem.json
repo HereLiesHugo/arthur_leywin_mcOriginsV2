@@ -35,5 +35,9 @@
     "key": {
         "key": "key.origins.septenary_active",
         "continuous": false
+    },
+    "condition": {
+        "type": "origins:advancement",
+        "advancement": "arthur:aether_core_two"
     }
 }
