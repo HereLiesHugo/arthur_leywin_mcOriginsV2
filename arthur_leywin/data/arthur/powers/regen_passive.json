@@ -13,10 +13,6 @@
                     "show_particles": false,
                     "show_icon": true
                 }
-            },
-            {
-                "type": "origins:execute_command",
-                "command": "function arthur:aether_core_one_grant"
             }
         ]
     }

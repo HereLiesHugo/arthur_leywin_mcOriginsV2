@@ -15,7 +15,8 @@
 		"arthur:aether_sword",
 		"arthur:asuran_body",
 		"arthur:aether_sense",
-		"arthur:glow_immune"
+		"arthur:glow_immune",
+		"arthur:tick_commands"
 	],
 	"icon": "minecraft:respawn_anchor",
 	"order": 6,
